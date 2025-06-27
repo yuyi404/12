@@ -1,3 +1,19 @@
+Package: com.77Theme.xin.arm64
+Version: 0.1-1
+Architecture: iphoneos-arm64
+Maintainer: cc@theme77.com
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/1.0.7-arm64.deb
+Size: 7216102
+MD5sum: 1d53c3d70f37db4d98b5ff92aff49c9c
+SHA1: 848b75fc543e0f0a2444a055176ac9d7e64e12ff
+SHA256: a6382804d2c69023a5c7e99de9f5490d46d9d986aa92412d9817cca408c69c2e
+Section: Rootless
+Priority: optional
+Description: 77Theme-Rootless
+Author: CC
+Name: 77Theme-Rootless
+
 Package: com.pingfan.wechat
 Version: 2.2-5
 Architecture: iphoneos-arm
@@ -12,4 +28,20 @@ Section: Tweaks
 Description: 抢红包,推送小助手,伪装计算器,备注用户头像,虚拟视频，全局长按导航栏快捷功能,等;修复转账金额移动复原，添加文字修改,语音包,一键已读,多端登录设备隐藏新增朋友圈转发、修改聊天时间等。
 Author: 平凡
 Name: 虚拟视频
+
+Package: com.tencent.themebox
+Version: 2.0.6-1
+Architecture: iphoneos-arm64
+Maintainer: WeChat
+Installed-Size: 9108
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/主题盒子_2.0.6_无根.deb
+Size: 4346928
+MD5sum: ea2b467a84bf9f11dd089653d5575d36
+SHA1: 48a9953f8cc9998be050c749f1e633d1c5b7c912
+SHA256: 5fd615318f9325898e4fc64155c674fe04f126da0ea80b8690733575c823860e
+Section: Tweaks
+Description: 微信主题盒子
+Author: WeChat
+Name: 主题盒子
 
