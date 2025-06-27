@@ -29,6 +29,21 @@ Description: 抢红包,推送小助手,伪装计算器,备注用户头像,虚拟
 Author: 平凡
 Name: 虚拟视频
 
+Package: com.rexinxuegao.WCElite
+Version: 1.2-6
+Architecture: iphoneos-arm64
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.rexinxuegao.WCElite_1.2-6_iphoneos-arm64_rootless.deb
+Size: 560856
+MD5sum: d04234e002a02c8bc7b7c8c9cecabbfc
+SHA1: 0b1feb504f7ed6c43635c388ffb231ef132c9e5f
+SHA256: 5eb4bb6db3145e7d72ff79863d82bab1684eaae60e79baefcd53212b2b9d3b3d
+Section: Tweaks
+Priority: optional
+Description: 微信优化，基于WechatEnhance开源版优化。
+Author: 热心网友＆雪糕
+Name: WCElite
+
 Package: com.tencent.themebox
 Version: 2.0.6-1
 Architecture: iphoneos-arm64
