@@ -18,7 +18,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           submodules: recursive
-          token: ${{ secrets.GITHUB_TOKEN }}  # 使用默认 token
+          token: ${{ secrets.PAT_TOKEN }}  # 使用默认 token
 
       - name: Install Dependencies
         run: |
