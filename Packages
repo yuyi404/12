@@ -1,0 +1,15 @@
+Package: com.pingfan.wechat
+Version: 2.2-5
+Architecture: iphoneos-arm
+Maintainer: 平凡
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/虚拟视频_2.2-5.deb
+Size: 1615860
+MD5sum: 87fdff8c8670a99ac25e95e5a274aa8c
+SHA1: 880f13dedb4f7c2a3857be1f1760f1f4b1081606
+SHA256: da81477bd15cd85ed494ca5710e49a4c11da81adc7f508e2d441e159b0285224
+Section: Tweaks
+Description: 抢红包,推送小助手,伪装计算器,备注用户头像,虚拟视频，全局长按导航栏快捷功能,等;修复转账金额移动复原，添加文字修改,语音包,一键已读,多端登录设备隐藏新增朋友圈转发、修改聊天时间等。
+Author: 平凡
+Name: 虚拟视频
+
